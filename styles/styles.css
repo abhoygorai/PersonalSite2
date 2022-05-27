@@ -1,0 +1,125 @@
+/* Divs */
+
+div.first_div {
+    background-color: rgb(196, 238, 248);
+}
+
+div.second_div {
+    height: 5000px;
+    background-color: white;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me {
+    background-color: #5ed4d4;
+    width: 15%;
+    padding: 13px;
+    border-radius: 8px;
+    margin: 10px auto 10px auto;
+    font-size: 30px;
+}
+
+.bottom-container {
+    background-color: #5ed4d4;
+    height: 300px;
+    margin-top: 0px;
+}
+
+.middle-container {
+    margin-bottom: 50px;
+}
+ 
+/* Body */
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+/* Texts */
+h1 {
+    font-size: 6.25em;
+    margin: 0 auto;
+    padding-top: 150px;
+    font-family: 'Sacramento', sans-serif;
+    color:  #409090;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    color:  #409090;
+}
+
+h3 {
+    color: #2a5f5f;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.titles {
+    font-size: 40px;
+}
+
+.btn {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-link {
+    text-decoration: none;
+    font-size: 25px;
+    color: #2a5f5f;
+    margin: 70px;
+    display: inline-block;
+}
+
+.foot-down {
+    margin-bottom: 0px;
+}
+
+/* Images */
+img.top_cloud {
+    position: absolute;
+    height: 100px;
+    right: 400px;
+    top: 20px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    height: 100px;  
+}
+
+.mountain_image {
+    height: 500px;
+    margin-top: 90px;
+}
+
+.Profile-picture {
+    height: 200px;
+    margin-top: 50px;
+    border-radius: 100%;
+}
+
+.DesignerImage {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.cpp-image {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
